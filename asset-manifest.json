@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Egor-Gerasimchik.github.io/todo/static/js/main.2566f322.chunk.js",
+    "main.js.map": "/Egor-Gerasimchik.github.io/todo/static/js/main.2566f322.chunk.js.map",
+    "runtime-main.js": "/Egor-Gerasimchik.github.io/todo/static/js/runtime-main.ebb95bac.js",
+    "runtime-main.js.map": "/Egor-Gerasimchik.github.io/todo/static/js/runtime-main.ebb95bac.js.map",
+    "static/js/2.5ac7a69e.chunk.js": "/Egor-Gerasimchik.github.io/todo/static/js/2.5ac7a69e.chunk.js",
+    "static/js/2.5ac7a69e.chunk.js.map": "/Egor-Gerasimchik.github.io/todo/static/js/2.5ac7a69e.chunk.js.map",
+    "index.html": "/Egor-Gerasimchik.github.io/todo/index.html",
+    "static/js/2.5ac7a69e.chunk.js.LICENSE.txt": "/Egor-Gerasimchik.github.io/todo/static/js/2.5ac7a69e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb95bac.js",
+    "static/js/2.5ac7a69e.chunk.js",
+    "static/js/main.2566f322.chunk.js"
+  ]
+}
